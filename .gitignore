@@ -1,0 +1,11 @@
+dataset/
+Agent.md
+README.md
+system_architecture_detailed.md
+dataset/
+Agent.md
+system_architecture_detailed.md
+*.db
+*.pptx
+__pycache__/
+.env
